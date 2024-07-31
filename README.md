@@ -1,0 +1,3 @@
+# README FOR FIRST REPO ON SKILL UP WITH GIT
+
+### My name is Otavie. 
